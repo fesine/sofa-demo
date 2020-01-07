@@ -1,2 +1,18 @@
 # Project exclude paths
 /sofa-rpc-demo/target/
+.idea
+.iml
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/markdown-navigator-enh.xml
+.idea/markdown-navigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sofa-demo.iml
+.idea/uiDesigner.xml
+sofa-rpc-demo/.DS_Store
+sofa-rpc-demo/sofa-rpc-demo.iml
